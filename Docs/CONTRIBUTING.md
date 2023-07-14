@@ -1,6 +1,5 @@
-# Contributing Documentation
+# Contributing
 
-### This file contains all the documentation that it's needed to get you up to speed to contribute to scylla-db-proxy.
+# Code guidelines
 
-## Structure of the project
-
+As code guidelines we just follow Rust's code guidelines.
